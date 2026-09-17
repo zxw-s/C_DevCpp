@@ -1,3 +1,6 @@
+# Dev‑C++ 使用 MinGW 编译器，不需要配置 json，**编辑‑编译‑运行‑调试**是图形按钮操作。
+# 功能包含：变量、数组、函数、指针、结构体，用来熟悉 Dev‑C++ 全套操作。
+
 #include <stdio.h>
 
 typedef struct Student
